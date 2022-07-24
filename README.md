@@ -19,7 +19,7 @@ The following **additional** features are implemented:
 - [x] Splits the Bill Amount between people 
 - [x] Tips percentages can be changed
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/SsmUg3Z" data-context="false" ><a href="//imgur.com/a/SsmUg3Z"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="//imgur.com/a/SsmUg3Z">
 
 GIF created with (https://ezgif.com/) .
 
