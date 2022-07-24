@@ -19,7 +19,8 @@ The following **additional** features are implemented:
 - [x] Splits the Bill Amount between people 
 - [x] Tips percentages can be changed
 
-<a href="//imgur.com/a/SsmUg3Z">
+
+![Tip Calculator](https://user-images.githubusercontent.com/84128206/180669054-1a73f7af-118f-4bc4-a529-fd44dffd98d7.gif)
 
 GIF created with (https://ezgif.com/) .
 
